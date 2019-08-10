@@ -12,7 +12,7 @@ The following are the dependacies that need to be satisfied before initialising 
 Python 3.7 or higher, 
   libtesseract (A language wrapper for Python for TesseractOCR), 
   pyocr, 
-  Poppler (And its many, many automatically installed dependacies), 
+  Poppler (And its many, many automatically installed dependancies), 
   PDF2Image
 </code>
 
